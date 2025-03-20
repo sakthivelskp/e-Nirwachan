@@ -1,4 +1,4 @@
-# E-निर्वाचन 
+# E-Election 
 ## Introduction
 * Nepal's current voting system is paper-based and has remained largely unchanged
 since 1959.
